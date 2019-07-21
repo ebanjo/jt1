@@ -1,4 +1,4 @@
-package hu.ebanjo.test.jenkins.gelloworld;
+package hu.ebanjo.test.jenkins.helloworld;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
